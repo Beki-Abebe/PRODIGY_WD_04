@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(9, 16, 90, 0.863);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+.container {
+    align-items: center;
+    text-align: center;
+    max-width: fit-content;
+    background-color: rgba(208, 222, 240, 0.671);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(98, 171, 255, 0.404);
+}
+
+.search-bar {
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#weather-info {
+    align-items: center;
+    font-size: 18px;
+}
